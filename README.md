@@ -16,9 +16,10 @@ Enthusiastic learning in Social Media, Design, Community Development, and Data A
 - SQL rank in HackerRank ([link](https://www.hackerrank.com/adhimbagas?badge=sql&stars=3&level=2&hr_r=1&utm_campaign=social-buttons&utm_medium=linkedin&utm_source=badge_share_profile&social=linkedin))
 - Belajar Dasar Visualisasi Data ([link](https://www.dicoding.com/certificates/53XEEEEGYXRN))
 
+## My Resume
+[Download CV Adhim](https://drive.google.com/file/d/10XuaGaqTTioOhdwXg2gpG4YxK60bvjx1/view?usp=share_link)
 
 ## 🌐 Let's Connect
-
   - adhimbagas@gmail.com
   - [LinkedIn](https://www.linkedin.com/in/adhim-bagas/)
 
