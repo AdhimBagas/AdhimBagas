@@ -1,14 +1,14 @@
 # 🚀 Hi! I'm Adhim! 
 
 My name is Adhim Bagas Wisnu Aji, you can call me Adhim. Now I'm a fresh graduate who seeking opportunity in Industry.
-Enthusiastic learning in Social Media, Design, Community Development, and Data Analytics
+Enthusiastic learning in Social Media, Design, Marketing, Community Development, and Data Analytics
 
 ## 🏢 Projects
 - Design Graphics include poster design, social media design & report, and wireframe design ([link](bit.ly/portofolioadhim))
 
 ## ⚡ Core Competencies
-- Tools: Google Spreadsheet, Adobe Family, Canva, Microsoft Office.
-- Skills: Data Cleaning, Data Visualization, Data Analysis, Design Graphics.
+- Tools: Google Spreadsheet, Adobe Family, Canva, Microsoft Office, Capcut.
+- Skills: Data Cleaning, Data Visualization, Data Analysis, Design Graphic,Digital Marketing,Content Creator.
 
 ## 📑 Certification
 
