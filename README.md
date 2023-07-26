@@ -4,7 +4,7 @@ My name is Adhim Bagas Wisnu Aji, you can call me Adhim. Now I'm a fresh graduat
 Enthusiastic learning in Social Media, Design, Marketing, Community Development, and Data Analytics
 
 ## 🏢 Projects
-- Design Graphics include poster design, social media design & report, and wireframe design ([link]([https://www.dicoding.com/certificates/53XEEEEGYXRN](https://www.cakeresume.com/s--FRT7pNWxEq__FWLd1UfPyA--/adhim-bagas/portfolios)))
+- Design Graphics include poster design, social media design & report, and wireframe design ([link](https://www.cakeresume.com/s--FRT7pNWxEq__FWLd1UfPyA--/adhim-bagas/portfolios)))
 
 ## ⚡ Core Competencies
 - Tools: Google Spreadsheet, Adobe Family, Canva, Microsoft Office, Capcut.
